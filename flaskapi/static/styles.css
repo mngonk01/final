@@ -1,0 +1,37 @@
+body{
+text-align:center;
+
+margin-top:20px;
+}
+/* base.html css section*/
+.form_class{
+border:5px solid black;
+background-color:black;
+}
+.form_class h1{
+color:white;
+}
+.form_class1 {
+padding:20px;
+font-size:20px;
+}
+.form_class1 input{
+font-size:20px;
+}
+
+/* result.html css section*/
+.border_section{
+
+
+border-collapse:collapse ;
+}
+.submit{
+    background-color: black;
+border:2px solid black;
+
+}
+.submit h1{
+    color: white;
+
+}
+
